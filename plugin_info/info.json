@@ -1,0 +1,20 @@
+{
+    "id": "victron",
+    "name": "Victron GX",
+    "description": {
+        "fr_FR": "Intégration locale des installations Victron Energy via le MQTT du GX (Cerbo, Venus GX, Ekrano...) : onduleurs/chargeurs VE.Bus, MPPT, batteries, compteurs, ESS, DESS. Découverte automatique, lecture et pilotage (équivalent de l'intégration Home Assistant victron_gx).",
+        "en_US": "Local integration of Victron Energy installations through the GX MQTT broker, equivalent to the Home Assistant victron_gx integration."
+    },
+    "licence": "AGPL",
+    "author": "Anthony",
+    "require": "4.2",
+    "category": "energy",
+    "hasDependency": true,
+    "hasOwnDeamon": true,
+    "maxDependancyInstallTime": 60,
+    "changelog": "",
+    "documentation": "",
+    "display": "",
+    "mobile": "",
+    "issue": ""
+}
